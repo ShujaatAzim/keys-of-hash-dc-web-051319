@@ -19,6 +19,6 @@ class Hash
         end
       end
     end
+    return arr
   end
-  return arr
 end
